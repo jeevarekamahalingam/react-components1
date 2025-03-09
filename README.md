@@ -1,2 +1,2 @@
 #Output page
-![image](https://github.com/user-attachments/assets/1e59ecb3-0220-4cd8-8219-ffcf70e493ec)
+![image](https://github.com/user-attachments/assets/23f43ab3-261d-4276-9446-07085f6e8cbf)
