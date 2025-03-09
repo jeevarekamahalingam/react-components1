@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
+.IconContainer{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    background-color:transparent;
+}

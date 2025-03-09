@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .Container{
+    margin:1rem;
+    width:30%;
+    height: 95vh;
+    background-color: #d3d3d3;
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+    
+
+  }

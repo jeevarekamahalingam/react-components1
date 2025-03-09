@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .Type1text{
+    background-color: white;
+    margin-bottom: 2rem;
+    display: flex;
+  }
+  input{
+    width:90%;
+   height:3rem;
+   border: none;
+   font-size:large;
+   font-weight: 300;
+   padding: 1rem;
+  }
+.buttondiv{
+    display: flex;
+    padding: 0.5rem;
+}
+button{
+
+    background-color:white ;
+    border: none;
+    align-items: center;
+
+  }
+
+  button:hover{
+    cursor: pointer;
+  }

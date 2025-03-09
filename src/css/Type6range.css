@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .Type6range{
+   display:flex;
+   align-items: center;
+   justify-content: center;
+    width:100%;
+    background-color:white;
+  }

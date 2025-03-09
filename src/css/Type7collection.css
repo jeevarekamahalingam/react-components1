@@ -1,0 +1,14 @@
+*{
+margin: 0;
+box-sizing: border-box;
+}
+.img{
+    height:160px;
+    background-size: contain;
+    margin-top: 6rem;
+    width:100%;
+    
+}
+.player{
+    display:flex;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+.Type4Icon{
+    padding:0.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 50px;
+    height:50px;
+    text-align: center;
+    background-color: white;
+}
+.star{
+    height: min-content;    
+}
+.rate{
+    font-size: small;
+    text-align: center;
+    color:gray;
+}

@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .Type2Radio{
+    background-color: white;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+ 
+
+  }
+  .insidediv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0.5rem;
+  }
+
+ label{
+    width:100%;
+   border: none;  
+  }
+.option,.option1{
+    align-items: center;
+    height: 3rem;
+    font-size:19px;
+    font-weight: 400;
+    color: rgb(86, 82, 82);
+}
+
+  .radio{width: 1rem;
+    cursor: pointer;
+    position: relative;
+}
+
